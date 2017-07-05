@@ -9,8 +9,8 @@ let Engine = ((mac)=>{
         return() =>{ console.log(`The BHP is ${mac.bhp} and F is ${mac.f}`);}
 })(Machine);
 
-let js=Engine;
-js()
+let abc=Engine;
+abc()
 
 
 
